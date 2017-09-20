@@ -6,4 +6,5 @@ To run this code, download the files SearchInfo.tsv.7z, UserInfo.tsv.7z, Locatio
 
 
 
-[1] Partial Device Fingerprints. In submission.
+[1] M. Ciere, C. Ganan, M. van Eeten, "Partial Device Fingerprints", ECML-PKDD 2017
+http://ecmlpkdd2017.ijs.si/papers/paperID636.pdf

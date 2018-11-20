@@ -5,7 +5,6 @@ library(lubridate)
 library(Rcpp)
 library(BH)
 library(bbmle)
-setwd("~/ecology/avito")
 
 U <- read_tsv('UserInfo.tsv')
 U <- U %>% mutate(fingerprint = interaction(UserDeviceID, UserAgentFamilyID))
